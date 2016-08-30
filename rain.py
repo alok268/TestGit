@@ -3,8 +3,6 @@ Rain simulation
 
 Simulates rain drops on a surface by animating the scale and opacity
 of 50 scatter points.
-
-Author: Nicolas P. Rougier
 """
 import numpy as np
 import matplotlib.pyplot as plt
